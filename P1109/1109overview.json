@@ -1,6 +1,7 @@
 {
   "project_number": 1109,
   "client": "Jan De Nul",
+  "cable_manufacturer": "ABB",
   "location": "Emden Germany",
   "cables_loaded": 1,
   "cables_magnetized": 1,
